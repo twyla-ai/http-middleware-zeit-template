@@ -12,7 +12,7 @@ This could also be used as an example for deployment of [Starlette](https://www.
 Note that we assume you already have a [ZEIT Account](https://zeit.co/login) that is 
 [linked to your GitHub account](https://zeit.co/docs/v2/advanced/now-for-github/).
 
-1. [Create a GitHub repository using this template](https://github.com/twyla-ai/http-integration-zeit-template/generate).
+1. [Create a GitHub repository using this template](https://github.com/twyla-ai/http-middleware-zeit-template/generate).
 2. [Import your new repository as a new project in ZEIT](https://zeit.co/new?#import-github).
 
 That should be it. ZEIT should have a deployment built and ready for you in no time.
